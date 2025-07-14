@@ -73,6 +73,6 @@ export default class Game {
 
       currentCell.appendChild(goblin);
       goblin.classList.remove("hidden");
-    }, 2000);
+    }, 1000);
   }
 }
